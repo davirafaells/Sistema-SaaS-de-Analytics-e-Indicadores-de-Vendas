@@ -1,0 +1,13 @@
+# Ambientes Virtuais e dependências
+venv/
+node_modules/
+
+# Senhas e chaves
+.env
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Bancos de dados locais (se houver sobras)
+*.sqlite3
